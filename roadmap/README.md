@@ -65,6 +65,9 @@ Leaflet est une bibliothèque JavaScript de cartographie qui nous permettra de c
 - **Matplotlib** :
   Matplotlib est une bibliothèque Python qui vas nous permettre de créer des diagrammes
 
+  - **Mermaid** :
+Mermaid est utilisée pour générer le diagramme de Gant de notre projet à partir d'un fichier Markdown avec une syntaxe simple et spécifique. 
+
 ## Répartition des tâches
 - **Création du site web**: Développement d'une plateforme pour la publication et l'exploration interactive des résultats du projet, incluant des visualisations de données.
 - **Élaboration du diagramme de Gantt** : Planification et suivi de l'avancement du projet à l'aide d'un diagramme de Gantt, afin d'assigner et gérer les différentes étapes et tâches.
