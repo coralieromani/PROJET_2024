@@ -34,6 +34,6 @@ En été il a plus de vélo en hiver et les temps de pluie moins de flux ....
 ## Diagramme
 ![Diagramme des locations de vélomaggs et des nombres de cycliste a Montpellier ](https://raw.githubusercontent.com/coralieromani/PROJET_2024/refs/heads/main/docs/Images/Diagrammecyclistesvelomaag.png)
 
-Analyse des courbes location vélomagg et nombres de cyclystes sur un an, selon les saisons, vacances ect, pour commencer sur un mois mais pourquoi pas le faire par semaine cela pourrait être plus intéressant et plus précis et on rajouterais les semaine pluvieuse et temps ensoleillé.  
+Analyse des courbes locations vélomagg et nombres de cyclystes sur un an, selon les saisons, vacances ect, pour commencer sur un mois mais pourquoi pas le faire par semaine cela pourrait être plus intéressant et plus précis et on rajouterais les semaine pluvieuse et temps ensoleillé.  
 
 ## Conclusion et perspectives
